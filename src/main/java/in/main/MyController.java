@@ -18,4 +18,8 @@ public class MyController {
        return  mav;
 
     }
+    @GetMapping("/aboutUs")
+    public String aboutUsPage(){
+        return "about-us";
+    }
 }

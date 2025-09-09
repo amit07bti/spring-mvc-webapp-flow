@@ -7,6 +7,7 @@
 </head>
 <body>
     <h3>Hello, Welcome to Edusol coching institute 👋</h3>
-    <a href="helloPage">Open Hello Page</a>
+    <a href="helloPage">Open Hello Page</a>  </br> </br>
+      <a href="aboutUs">About Us</a>
 </body>
 </html>
