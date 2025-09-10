@@ -4,9 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <title>JSP Page</title>
+     <style>
+            body {
+                background-color: lightgreen;
+                color: black;
+            }
+        </style>
 </head>
 <body>
-    <h3>Hello, Welcome to Edusol coching institute 👋</h3>
+    <h>Hello, Welcome to Edusol coching institute 👋</h>
     <a href="helloPage">Open Hello Page</a>  </br> </br>
       <a href="aboutUs">About Us</a>
 </body>

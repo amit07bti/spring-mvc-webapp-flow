@@ -4,8 +4,16 @@
 <head>
     <meta charset="UTF-8">
     <title>Hello JSP</title>
+
+ <style>
+        body {
+            background-color: lightblue;
+            color: black;
+        }
+    </style>
 </head>
+
 <body>
-    <h3> Hello, Amit 👋</h3>
+    <h2 > Hello, Amit 👋</h2>
 </body>
 </html>

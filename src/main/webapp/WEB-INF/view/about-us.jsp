@@ -4,8 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <title>Hello JSP</title>
+     <style>
+            body {
+                background-color: red;
+                color: black;
+            }
+        </style>
 </head>
 <body>
-    <h4> Hello, Welcome to Esusol tranning Center  Student  (+91-6396954254)</h4>
+    <h2> Hello, Welcome to Esusol tranning Center  Student  (+91-6396954254)</h2> </br>
+    <h3> perfect programing</h3>
 </body>
 </html>
