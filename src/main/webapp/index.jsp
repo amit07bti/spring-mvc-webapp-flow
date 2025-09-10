@@ -12,8 +12,12 @@
         </style>
 </head>
 <body>
-    <h>Hello, Welcome to Edusol coching institute 👋</h>
+    <h>Hello, Welcome to Edusol coching institute 👋</h>  </br> </br>
+
     <a href="helloPage">Open Hello Page</a>  </br> </br>
-      <a href="aboutUs">About Us</a>
+
+      <a href="aboutUs">About Us</a> </br> </br>
+
+      <a href="myForm">My Form</a>
 </body>
 </html>

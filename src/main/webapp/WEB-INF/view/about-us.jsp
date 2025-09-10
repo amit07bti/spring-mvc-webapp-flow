@@ -6,7 +6,7 @@
     <title>Hello JSP</title>
      <style>
             body {
-                background-color: red;
+                background-color: navy;
                 color: black;
             }
         </style>
